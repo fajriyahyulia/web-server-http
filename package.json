@@ -1,0 +1,11 @@
+{
+  "name": "web-server-http",
+  "version": "1.0.0",
+  "description": "Web server sederhana dengan library http NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yulia Fajriyah",
+  "license": "ISC"
+}
